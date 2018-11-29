@@ -1,3 +1,3 @@
 ## Leah Lindsey Art
 
-An artist space built in React.
+An artist portfolio being built in React.
